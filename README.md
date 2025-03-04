@@ -1,1 +1,1 @@
-# tesztbetumagus
+# Betumagus
